@@ -12,31 +12,23 @@
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-
-<p>This Project includes 2 executable files, 1 text files ,1 h5 file as well as 1 directories as follows:</p>
+<p>This project contains one executable file and a presentation as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
+  <li><b>ML Mobile Price Range Prediction.ipynb</b> - Google Collab notebook containing data summary, exploration, visualisations and modeling.</li>
   
-  <li><b>mobile_price_range_prediction_Apoorva_KR.ipynb</b> - Includes all functions required for classification operations  and generates the model.h5 file after execution.</li>
-  <li><b>final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b> -  after execution, evaluation is done on the unseen data as in confusion_matrix.txt.</li>
 </ul>
 
-<h4>Output Files:</h4>
+<h4>Documentation:</h4>
 <ul>
-  <li><b>model.h5</b> - Model contains information about the predictions of the train set, such as 0(low),high(1),very high(2).</li>
-  <li><b>confusion_matrix.txt</b> - Contains information about the classified emotions of the test set.</li>
-  
+  <li><b>mobile_price_range_predicition_final.pptx</b> - Presentation of the same.</li>
 </ul>
 
-<h4>Source Directories:</h4>
+<h4>Source Directory:</h4>
 <ul>
-  <li><b>Dataset</b> - Includes all dataset  for the training phase  and testing phase of the model in the csv format.</li>
-  
+  <li><b>Data & Resources.zip</b> - Includes sales data and store data for various Rossmann stores.</li>
 </ul>
 
-
-  
-</ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -54,16 +46,6 @@
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/102009481/177787039-573da579-37af-4456-957b-c72d75c120b1.png)
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the program files is as follows:</p>
-
-
-<p><b>1) final_notebook_mobile_price_range_prediction_Apoorva_KR.ipynb</b></p>
-<p> This file must be executed, to define all the functions and variables required for classification operations which leads to the production of the model.h5 file. and to evaluate the model performance on unseen data
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
